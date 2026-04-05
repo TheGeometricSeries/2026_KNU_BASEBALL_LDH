@@ -1,0 +1,9 @@
+name: kun-ai
+
+services:
+  ollama:
+    image: ollama/ollama
+    container_name: knu-ollama
+    ports:
+      - "11434:11434"
+
