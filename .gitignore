@@ -218,5 +218,7 @@ __marimo__/
 # Customs
 libs
 index_name
-exp-faiss
-venv
+exp-faiss/
+venv/
+infra
+infra/
